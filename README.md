@@ -17,7 +17,7 @@
   
   ![GitHub Logo](/media/not-taker-screenshot2.png)
   
-  Link to active site: 
+  Link to active site: https://powerful-cove-84820.herokuapp.com/
 
 
   ---
