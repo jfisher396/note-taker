@@ -11,8 +11,11 @@
   ## Description:
 
   An application that can be used to write, save, and delete notes.
+  ---
   
-  ![GitHub Logo]()
+  ![GitHub Logo](/media/note-taker-screenshot1.png)
+  ---
+  ![GitHub Logo](/media/note-taker-screenshot2.png)
 
   ---
 
