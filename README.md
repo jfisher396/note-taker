@@ -14,8 +14,8 @@
   ---
   
   ![GitHub Logo](/media/note-taker-screenshot1.png)
-  ---
-  ![GitHub Logo](/media/note-taker-screenshot2.png)
+  
+  ![GitHub Logo](/media/not-taker-screenshot2.png)
 
   ---
 
